@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg"   width="100%"
-  height="100%"
-  style="position: fixed; top: 0; left: 0;">
-   Hello world!
-
-  <script>
-    alert("SVG execution");
-  </script>
-</svg>
